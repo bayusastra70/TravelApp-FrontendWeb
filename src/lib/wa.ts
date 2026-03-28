@@ -21,7 +21,7 @@ export function generatePaymentWA(booking: any) {
   }
 
   message += `🏦 Bank Transfer:\n`
-  message += `BCA - 123456789\n`
+  message += `BCA - 8271613890\n`
   message += `a/n Yuda Travel\n\n`
 
   message += `Please send your payment receipt via WhatsApp 🙏`
