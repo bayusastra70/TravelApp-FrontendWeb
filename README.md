@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 TravelApp Frontend (Next.js)
 
-## Getting Started
+[![Live Site](https://img.shields.io/badge/Live-mertasaritrans.com-blue?style=flat-square)](https://mertasaritrans.com/)
+[![Backend Repo](https://img.shields.io/badge/Repo-Backend-red?style=flat-square)](https://github.com/bayusastra70/TravelApp-Backend)
 
-First, run the development server:
+The official web interface for **[Mertasari Trans](https://mertasaritrans.com/)**. This dashboard provides a seamless experience for managing travel operations, from fleet tracking to booking management.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Project Links
+- **Live Website:** [https://mertasaritrans.com/](https://mertasaritrans.com/)
+- **Backend API Repository:** [bayusastra70/TravelApp-Backend](https://github.com/bayusastra70/TravelApp-Backend)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Key Features
+- **Interactive Dashboard:** Real-time visualization of daily bookings and fleet status.
+- **Fleet Calendar:** A centralized calendar view to monitor vehicle schedules and driver assignments.
+- **Booking Management:** Full CRUD capabilities for bookings with instant status updates via the NestJS API.
+- **Responsive UI:** Built with Tailwind CSS for optimal performance on tablets and desktops.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏗 Tech Stack
+- **Framework:** Next.js (React)
+- **Styling:** Tailwind CSS
+- **API Fetching:** Axios / SWR
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Development
+1. **Clone & Install:** `npm install`
+2. **Environment:** Set `NEXT_PUBLIC_API_URL` in `.env.local`.
+3. **Run:** `npm run dev`
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+**Developed by [bayusastra70](https://github.com/bayusastra70)**
