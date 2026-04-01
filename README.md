@@ -25,5 +25,26 @@ The official web interface for **[Mertasari Trans](https://mertasaritrans.com/)*
 2. **Environment:** Set `NEXT_PUBLIC_API_URL` in `.env.local`.
 3. **Run:** `npm run dev`
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshots/ui1.png" width="600px">
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="./screenshots/ui2.png" width="600px">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./screenshots/ui3.png" width="600px">
+</p>
+
+<br>
+
 ---
 **Developed by [bayusastra70](https://github.com/bayusastra70)**
